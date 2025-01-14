@@ -8,7 +8,8 @@ Setup/Execution  Instructions: To view this project first clone this directory o
 All code for this project can be found in the notebook in the repository. 
 The code has been annotated and combined with markdown cells to guide you. 
 All data has been saved in the repository in the data sub file and linked using
-a relative links. 
+a relative links. The images folder relates to images enter into markdown
+cells.  
 Any packages or dependencies required are listed and annoated in the notebook 
 as they are required. Please run each cell in order as you work through the notebook. 
 
