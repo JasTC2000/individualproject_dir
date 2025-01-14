@@ -1,20 +1,22 @@
 Jasmine TC individual project README file 
 
-Adding text to check README in saved to GitHub repository
+Project Overview: This project looks at the data generated from my PhD project
+on the expression of the fluorescent protein mCherry. I have used python to clear up the data that was output from the plate reader and visualised it. 
+A more detailed report of the project can be found on the word doc submitted. 
 
-Readme file is now ready to be used for the project
+Setup/Execution  Instructions: To view this project first clone this directory onto your device. 
+All code for this project can be found in the notebook in the repository. 
+The code has been annotated and combined with markdown cells to guide you. 
+All data has been saved in the repository in the data sub file and linked using
+a relative links. 
+Any packages or dependencies required are listed and annoated in the notebook 
+as they are required. Please run each cell in order as you work through the notebook. 
 
-Project Overview: Provide a brief description of your project, 
-its objectives, and any relevant background information.
+Data Description: The data for this project are all located in the data sub file.
+They are all in a CSV format and are linked into the notebook as required. 
+The data used is from a plate reader and show the fluorescence for each well
+ in a 96 well plate over 21 hours. Fluorescence (FI) was read every 10 minuets. 
 
-Setup Instructions: Detail the steps required to set up the environment,
- including dependencies and how to install them.
+Environment Consistency: Python version ? is required to run the notebook for this project. 
 
-Data Description: Describe the data files included in the Data directory,
- their formats, and any pertinent information.
 
-Execution Guide: Offer clear instructions on how to run the notebook,
- including any necessary configurations.
-
-Environment Consistency: Specify the Python version and any packages required to run the notebook. 
-Consider providing a requirements.txt file or a environment.yml file for easy environment setup.
