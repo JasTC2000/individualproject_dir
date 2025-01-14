@@ -13,3 +13,4 @@ Thumbs.db
 
 #Ignore workspaces 
 new-workspace.jupyterlab-workspace
+.ipynb_checkpoints
