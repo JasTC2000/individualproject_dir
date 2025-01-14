@@ -17,6 +17,8 @@ They are all in a CSV format and are linked into the notebook as required.
 The data used is from a plate reader and show the fluorescence for each well
  in a 96 well plate over 21 hours. Fluorescence (FI) was read every 10 minuets. 
 
-Environment Consistency: Python version ? is required to run the notebook for this project. 
+Environment Consistency: Python version Python 3.12.7
+| packaged by Anaconda, Inc. | (main, Oct  4 2024, 08:22:19) [Clang 14.0.6 ]
+y is required to run the notebook for this project. 
 
 
